@@ -12,7 +12,7 @@ import time
 # Configuration variables
 BASE_URL = "https://www.coingecko.com/"  
 MAX_PAGES = 50  
-CSV_FILENAME = "data//coingecko_data.csv"  
+CSV_FILENAME = "coingecko_data.csv"  
 
 # Dictionary defining column indexes for extracting data from the webpage table
 COLUMN_MAP = {
