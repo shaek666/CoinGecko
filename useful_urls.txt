@@ -1,0 +1,4 @@
+Website to scrape: https://www.coingecko.com/
+
+ChromeDriver = "F:\chromedriver-win64 (1)\chromedriver.exe"
+
