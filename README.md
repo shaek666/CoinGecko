@@ -38,12 +38,9 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
     source venv\Scripts\activate
     ```
 
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+3. Install the required dependencies.
 
-4. Download and install the ChromeDriver that matches your Chrome browser version. Update the path to the ChromeDriver in the `setup_driver` function in 
+4. Download and install the ChromeDriver that matches your Chrome browser version. Update the path to the ChromeDriver in the `setup_driver` function in `coin.py`
 
 
 ## Usage
@@ -53,12 +50,9 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
     python coin.py
     ```
 
-2. Process the scraped data:
-    ```sh
-    jupyter notebook proccessed_coin.ipynb
-    ```
+2. Process the scraped data.
 
-3. Open the Tableau dashboard file `Crypto Market Intelligence.twb` to visualize the data.
+3. You can view the interactive dashboard online by visiting the link provided in the `useful_urls.txt` file.
 
 ## Project Structure
 
