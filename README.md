@@ -45,9 +45,6 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
 
 4. Download and install the ChromeDriver that matches your Chrome browser version. Update the path to the ChromeDriver in the `setup_driver` function in 
 
-coin.py
-
-.
 
 ## Usage
 
@@ -95,7 +92,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the 
 
-LICENSE
-
- file for details.
-```
+LICENSE file for details.
