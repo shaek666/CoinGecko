@@ -35,7 +35,7 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
 2. Set up the virtual environment:
     ```sh
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv\Scripts\activate
     ```
 
 3. Install the required dependencies:
