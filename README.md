@@ -1,6 +1,6 @@
 # 🚀 Crypto Market Intelligence
 
-An automated **CoinGecko data scraper** using **Selenium**, processed and cleaned with **Pandas**, and visualized in an **interactive Tableau dashboard**. This project enables efficient tracking of cryptocurrency market trends.
+An automated **[CoinGecko data scraper](https://www.coingecko.com/)** using **Selenium**, processed and cleaned with **Pandas**, and visualized in an **interactive Tableau dashboard**. This project enables efficient tracking of cryptocurrency market trends.
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
 
 2. Process the scraped data.
 
-3. You can view the interactive dashboard online by visiting the link provided in the `useful_urls.txt` file.
+3. You can view the interactive dashboard online by visiting the link provided in the `useful_urls.txt` file or directly [here](https://public.tableau.com/views/CryptoMarketIntelligence/CryptocurrencyMarketInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Project Structure
 
