@@ -78,9 +78,6 @@ crypto-market-intelligence/
     └── Scripts/
 ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ## License
 
