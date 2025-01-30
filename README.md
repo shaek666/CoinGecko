@@ -1,4 +1,3 @@
-markdown
 # 🚀 Crypto Market Intelligence
 
 An automated **CoinGecko data scraper** using **Selenium**, processed and cleaned with **Pandas**, and visualized in an **interactive Tableau dashboard**. This project enables efficient tracking of cryptocurrency market trends.
