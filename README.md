@@ -9,7 +9,6 @@ An automated **CoinGecko data scraper** using **Selenium**, processed and cleane
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
