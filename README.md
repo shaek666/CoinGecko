@@ -5,15 +5,22 @@ An automated **[CoinGecko data scraper](https://www.coingecko.com/)** using **Se
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Key Findings](#key-findings)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [License](#license)
 
 ## Introduction
 
 Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurrency data from CoinGecko, process and clean the data using Pandas, and visualize the results in an interactive Tableau dashboard. This project aims to provide users with up-to-date and insightful information about the cryptocurrency market.
+
+## Key Findings
+
+- **Market Capitalization:** Bitcoin and Ethereum clearly lead the market, dominating overall market cap compared to other cryptocurrencies.
+- **Price Volatility:** Historical price trends reveal significant fluctuations, underscoring the inherent volatility in crypto markets.
+- **Trading Volume:** High trading volumes in key assets highlight liquidity, while smaller coins may experience sharper price swings.
+- **Top Gainers/Losers:** The dashboard pinpoints cryptocurrencies with the most notable percentage gains and losses over specific periods.
 
 ## Features
 
@@ -40,7 +47,6 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
 
 4. Download and install the ChromeDriver that matches your Chrome browser version. Update the path to the ChromeDriver in the `setup_driver` function in `coin.py`.
 
-
 ## Usage
 
 1. Run the data scraper:
@@ -51,30 +57,6 @@ Crypto Market Intelligence is a comprehensive tool designed to scrape cryptocurr
 2. Process the scraped data.
 
 3. You can view the interactive dashboard online by visiting the link provided in the `useful_urls.txt` file or directly [here](https://public.tableau.com/views/CryptoMarketIntelligence/CryptocurrencyMarketInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
-## Project Structure
-
-```
-crypto-market-intelligence/
-│
-├── 2_pivoted_data.csv
-├── cleaned_coingecko_data.csv
-├── coin.py
-├── coingecko_data.csv
-├── Crypto Market Intelligence.twb
-├── LICENSE
-├── pivoted.py
-├── proccessed_coin.ipynb
-├── README.md
-├── useful_urls.txt
-└── venv/
-    ├── .gitignore
-    ├── etc/
-    ├── Include/
-    ├── Lib/
-    ├── pyvenv.cfg
-    └── Scripts/
-```
 
 
 ## License
